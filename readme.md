@@ -1,4 +1,4 @@
-# gulp-rev
+# gulp-rev-filename
 
 > Static asset revisioning by change content hash to filenames
 > `unicorn.png` → `d41d8cd98f.png`

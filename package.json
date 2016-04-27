@@ -1,7 +1,7 @@
 {
   "name": "gulp-rev-filename",
-  "version": "1.0.0",
-  "description": "> change filenames to content hash  > `unicorn.png` → `d41d8cd98f.png`",
+  "version": "1.0.2",
+  "description": "change filenames to content hash",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
