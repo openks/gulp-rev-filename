@@ -23,6 +23,22 @@ gulp.task('default', function () {
 });
 //`unicorn.png` → `d41d8cd98f.png`
 ```
+## API
+
+
+### rev(obj)
+
+#### obj.showSize
+
+Type: `boolean`  
+
+Default: `false`
+
+if `true`
+`unicorn.png` → `d41d8cd98f_40*40_1.png`
+> width:40px;
+  height:40px;
+  size:1k;
 
 
 ## License
