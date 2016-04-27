@@ -1,4 +1,4 @@
-# gulp-rev 
+# gulp-rev
 
 > Static asset revisioning by change content hash to filenames
 > `unicorn.png` → `d41d8cd98f.png`
@@ -27,4 +27,4 @@ gulp.task('default', function () {
 
 ## License
 
-MIT © [openks](http://sindresorhus.com)
+MIT © [openks](https://github.com/openks)
