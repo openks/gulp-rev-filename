@@ -1,0 +1,22 @@
+{
+  "name": "gulp-rev-filename",
+  "version": "1.0.0",
+  "description": "> change filenames to content hash  > `unicorn.png` → `d41d8cd98f.png`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "modify-filename": "^1.1.0",
+    "rev-hash": "^1.0.0",
+    "through2": "^2.0.0"
+  },
+  "author": "朱阳星 <openks@foxmail.com>",
+  "homepage": "https://github.com/openks/gulp-rev-filename#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openks/gulp-rev-filename.git"
+  },
+  "license": "MIT"
+}
