@@ -65,16 +65,16 @@ gulp.task('default', function () {
 
 #### obj.showSize
 
-Type: `boolean`  
+	Type: `boolean`  
 
-Default: `false`
+	Default: `false`
 
-if `true`
+	if `true`
 
-`unicorn.png` → `40*40_1.png`
-> width:40px;
-  height:40px;
-  size:1k;
+	`unicorn.png` → `40*40_1.png`
+	> width:40px;
+	  height:40px;
+	  size:1k;
 
 
 #### obj.showHash
